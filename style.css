@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+  font-family: Helvetica;
+}
+
+#container {
+  align-items: center;
+  justify-content: center;
+}
