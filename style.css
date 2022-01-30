@@ -1,7 +1,8 @@
 body {
-  margin: 0;
+  margin: 20;
   font-family: Helvetica;
   background-color: #D23333;
+  text-align: center;
 }
 
 h1 {
